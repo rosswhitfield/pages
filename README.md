@@ -1,4 +1,4 @@
 Javascript playground
 ==========================
 
-* [time](https://rosswhitfield.github.io/pages/time)
+* [clock](https://rosswhitfield.github.io/pages.js/clock)
