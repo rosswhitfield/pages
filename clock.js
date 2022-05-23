@@ -1,7 +1,7 @@
 (() => {
   timer = setInterval(function () {
     let now = new Date();
-    const seconds = now.getSeconds() + now.getMilliseconds() / 1000;
+    const seconds = now.getSeconds();
     const minutes = now.getMinutes() + seconds / 60;
     const hours = now.getHours() + minutes / 60;
 
@@ -16,5 +16,5 @@
       .setAttribute("transform", `rotate(${(seconds / 60) * 360})`);
 
     document.getElementById("time").innerHTML = `Current time is ${now}`;
-  }, 40);
+  }, 1000);
 })();
