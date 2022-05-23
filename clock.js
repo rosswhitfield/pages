@@ -25,7 +25,5 @@
       document
       .getElementById("day")
       .setAttribute("transform", `rotate(${(day / 31) * 360})`);
-
-    document.getElementById("time").innerHTML = `Current time is ${now}`;
   }, 1000);
 })();
