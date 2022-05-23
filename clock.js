@@ -10,6 +10,9 @@
     document
       .getElementById("hour")
       .setAttribute("transform", `rotate(${(hours / 12) * 360})`);
+      document
+      .getElementById("hour24")
+      .setAttribute("transform", `rotate(${(hours / 24) * 360})`);
     document
       .getElementById("minute")
       .setAttribute("transform", `rotate(${(minutes / 60) * 360})`);
