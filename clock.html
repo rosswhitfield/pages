@@ -82,15 +82,34 @@
     <text x="0" y="-85" font-size="smaller" text-anchor="middle" transform="rotate(270)">45</text>
     <text x="0" y="-85" font-size="smaller" text-anchor="middle" transform="rotate(300)">50</text>
     <text x="0" y="-85" font-size="smaller" text-anchor="middle" transform="rotate(330)">55</text>
-    <polyline points="-4, 0 0, -40 4, 0 0, 10 -4, 0" stroke="black" fill="grey" stroke-width="2" id="hour"/>
-    <polyline points="-4, 0 0, -70 4, 0 0, 10 -4, 0" stroke="black" fill="grey" stroke-width="2" id="minute"/>
+    <polyline points="-2, 0 0, -40 2, 0 -2, 0" stroke="black" fill="black" stroke-width="1" id="hour"/>
+    <polyline points="-2, 0 0, -70 2, 0 -2, 0" stroke="black" fill="black" stroke-width="1" id="minute"/>
     <g id="second">
       <circle cx="0" cy="20" r="3" stroke="black" stroke-width="1" fill="transparent" />
       <line id="second" x1="0" y1="17.5" x2="0" y2="-68" stroke="black" stroke-width="1" />
     </g>
     <circle cx="0" cy="0" r="3" stroke="black" stroke-width="1" fill="black" />
+    <g transform="translate(-30, 0)">
+      <line x1="0" y1="-12" x2="0" y2="-17" stroke="black" stroke-width="1" />
+      <line x1="0" y1="-12" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(51.42857)" />
+      <line x1="0" y1="-12" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(102.857)" />
+      <line x1="0" y1="-12" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(154.2857)" />
+      <line x1="0" y1="-12" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(205.7143)" />
+      <line x1="0" y1="-12" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(257.1429)" />
+      <line x1="0" y1="-12" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(308.5714)" />
+      <text x="0" y="-18" font-size="4px" text-anchor="middle">SUN</text>
+      <text x="0" y="-18" font-size="4px" text-anchor="middle" transform="rotate(51.42857)">MON</text>
+      <text x="0" y="-18" font-size="4px" text-anchor="middle" transform="rotate(102.857)">TUE</text>
+      <text x="0" y="-18" font-size="4px" text-anchor="middle" transform="rotate(154.2857)">WED</text>
+      <text x="0" y="-18" font-size="4px" text-anchor="middle" transform="rotate(205.7143)">THU</text>
+      <text x="0" y="-18" font-size="4px" text-anchor="middle" transform="rotate(257.1429)">FRI</text>
+      <text x="0" y="-18" font-size="4px" text-anchor="middle" transform="rotate(308.5714)">SAT</text>
+      <circle cx="0" cy="0" r="2" stroke="black" stroke-width="1" fill="black" />
+      <polyline points="-1, 0 0, -15 1, 0 -1, 0" stroke="black" fill="black" stroke-width="1" id="day_of_week">
+    </g>
   </svg>
   <div id="time" style="text-align:center"></div>
+
 </body>
 
 </html>
