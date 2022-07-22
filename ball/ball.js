@@ -16,7 +16,17 @@ const drawBall = function (ball) {
     svg.style["fill"] = "black";
   });
 
+  svg.addEventListener("touchstart", (e) => {
+    svg.isSelected = true;
+    svg.style["fill"] = "black";
+  });
+
   svg.addEventListener("mouseup", (e) => {
+    svg.isSelected = false;
+    svg.style["fill"] = svg.getAttribute("original_color");
+  });
+
+  svg.addEventListener("touchend", (e) => {
     svg.isSelected = false;
     svg.style["fill"] = svg.getAttribute("original_color");
   });
@@ -35,6 +45,15 @@ image.addEventListener("mousemove", (e) => {
     if (ball.isSelected === true) {
       ball.setAttribute("cx", e.offsetX);
       ball.setAttribute("cy", e.offsetY);
+    }
+  });
+});
+
+image.addEventListener("touchmove", (e) => {
+  ballList.forEach((ball) => {
+    if (ball.isSelected === true) {
+      ball.setAttribute("cx", e.touches[0].clientX); // FIXME this is wrong
+      ball.setAttribute("cy", e.touches[0].clientY); // FIXME this is wrong
     }
   });
 });
