@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="400" height="400" viewBox="-100 -100 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <line x1="0" y1="-60" x2="0" y2="-80" stroke="black" stroke-width="3" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(6)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(12)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(18)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(24)" />
+  <line x1="0" y1="-60" x2="0" y2="-80" stroke="black" stroke-width="2" transform="rotate(30)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(36)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(42)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(48)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(54)" />
+  <line x1="0" y1="-60" x2="0" y2="-80" stroke="black" stroke-width="2" transform="rotate(60)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(66)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(72)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(78)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(84)" />
+  <line x1="0" y1="-60" x2="0" y2="-80" stroke="black" stroke-width="2" transform="rotate(90)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(96)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(102)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(108)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(114)" />
+  <line x1="0" y1="-60" x2="0" y2="-80" stroke="black" stroke-width="2" transform="rotate(120)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(126)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(132)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(138)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(144)" />
+  <line x1="0" y1="-60" x2="0" y2="-80" stroke="black" stroke-width="2" transform="rotate(150)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(156)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(162)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(168)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(174)" />
+  <line x1="0" y1="-60" x2="0" y2="-80" stroke="black" stroke-width="2" transform="rotate(180)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(186)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(192)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(198)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(204)" />
+  <line x1="0" y1="-60" x2="0" y2="-80" stroke="black" stroke-width="2" transform="rotate(210)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(216)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(222)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(228)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(234)" />
+  <line x1="0" y1="-60" x2="0" y2="-80" stroke="black" stroke-width="2" transform="rotate(240)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(246)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(252)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(258)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(264)" />
+  <line x1="0" y1="-60" x2="0" y2="-80" stroke="black" stroke-width="2" transform="rotate(270)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(276)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(282)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(288)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(294)" />
+  <line x1="0" y1="-60" x2="0" y2="-80" stroke="black" stroke-width="2" transform="rotate(300)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(306)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(312)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(318)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(324)" />
+  <line x1="0" y1="-60" x2="0" y2="-80" stroke="black" stroke-width="2" transform="rotate(330)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(336)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(342)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(348)" />
+  <line x1="0" y1="-75" x2="0" y2="-80" stroke="black" stroke-width="1" transform="rotate(354)" />
+  <text x="0" y="-85" font-size="smaller" text-anchor="middle">60</text>
+  <text x="0" y="-85" font-size="smaller" text-anchor="middle" transform="rotate(30)">5</text>
+  <text x="0" y="-85" font-size="smaller" text-anchor="middle" transform="rotate(60)">10</text>
+  <text x="0" y="-85" font-size="smaller" text-anchor="middle" transform="rotate(90)">15</text>
+  <text x="0" y="95" font-size="smaller" text-anchor="middle" transform="rotate(-60)">20</text>
+  <text x="0" y="95" font-size="smaller" text-anchor="middle" transform="rotate(-30)">25</text>
+  <text x="0" y="95" font-size="smaller" text-anchor="middle">30</text>
+  <text x="0" y="95" font-size="smaller" text-anchor="middle" transform="rotate(30)">35</text>
+  <text x="0" y="95" font-size="smaller" text-anchor="middle" transform="rotate(60)">40</text>
+  <text x="0" y="-85" font-size="smaller" text-anchor="middle" transform="rotate(270)">45</text>
+  <text x="0" y="-85" font-size="smaller" text-anchor="middle" transform="rotate(300)">50</text>
+  <text x="0" y="-85" font-size="smaller" text-anchor="middle" transform="rotate(330)">55</text>
+  <polyline points="-2, 0 0, -40 2, 0 -2, 0" stroke="black" fill="black" stroke-width="1" id="hour"/>
+  <polyline points="-2, 0 0, -70 2, 0 -2, 0" stroke="black" fill="black" stroke-width="1" id="minute"/>
+  <g id="second">
+    <circle cx="0" cy="20" r="3" stroke="black" stroke-width="1" fill="transparent" />
+    <line x1="0" y1="17.5" x2="0" y2="-68" stroke="black" stroke-width="1" />
+  </g>
+  <circle cx="0" cy="0" r="3" stroke="black" stroke-width="1" fill="black" />
+  <g transform="translate(-35, 0)">
+    <line x1="0" y1="-12" x2="0" y2="-17" stroke="black" stroke-width="1" />
+    <line x1="0" y1="-12" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(51.42857)" />
+    <line x1="0" y1="-12" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(102.857)" />
+    <line x1="0" y1="-12" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(154.2857)" />
+    <line x1="0" y1="-12" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(205.7143)" />
+    <line x1="0" y1="-12" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(257.1429)" />
+    <line x1="0" y1="-12" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(308.5714)" />
+    <text x="0" y="-18" font-size="4px" text-anchor="middle">SUN</text>
+    <text x="0" y="-18" font-size="4px" text-anchor="middle" transform="rotate(51.42857)">MON</text>
+    <text x="0" y="21" font-size="4px" text-anchor="middle" transform="rotate(-77.1429)">TUE</text>
+    <text x="0" y="21" font-size="4px" text-anchor="middle" transform="rotate(-28.7)">WED</text>
+    <text x="0" y="21" font-size="4px" text-anchor="middle" transform="rotate(25.714)">THU</text>
+    <text x="0" y="21" font-size="4px" text-anchor="middle" transform="rotate(77.1429)">FRI</text>
+    <text x="0" y="-18" font-size="4px" text-anchor="middle" transform="rotate(308.5714)">SAT</text>
+    <circle cx="0" cy="0" r="2" stroke="black" stroke-width="1" fill="black" />
+    <polyline points="-1, 0 0, -15 1, 0 -1, 0" stroke="black" fill="black" stroke-width="1" id="day_of_week"/>
+  </g>
+  <g transform="translate(0, 35)">
+    <line x1="0" y1="-12" x2="0" y2="-17" stroke="black" stroke-width="1" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(15)" />
+    <line x1="0" y1="-14" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(30)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(45)" />
+    <line x1="0" y1="-14" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(60)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(75)" />
+    <line x1="0" y1="-12" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(90)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(105)" />
+    <line x1="0" y1="-14" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(120)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(135)" />
+    <line x1="0" y1="-14" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(150)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(165)" />
+    <line x1="0" y1="-12" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(180)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(195)" />
+    <line x1="0" y1="-14" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(210)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(225)" />
+    <line x1="0" y1="-14" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(240)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(255)" />
+    <line x1="0" y1="-12" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(270)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(285)" />
+    <line x1="0" y1="-14" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(300)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(315)" />
+    <line x1="0" y1="-14" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(330)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(345)" />
+    <text x="0" y="-19" font-size="4px" text-anchor="middle">24</text>
+    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(90)">6</text>
+    <text x="0" y="21" font-size="4px" text-anchor="middle">12</text>
+    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(270)">18</text>
+    <circle cx="0" cy="0" r="2" stroke="black" stroke-width="1" fill="black" />
+    <polyline points="-1, 0 0, -15 1, 0 -1, 0" stroke="black" fill="black" stroke-width="1" id="hour24" />
+  </g>
+  <g transform="translate(35, 0)">
+    <line x1="0" y1="-12" x2="0" y2="-17" stroke="black" stroke-width="1" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(11.6129)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(23.2258)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(34.8387)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(46.4516)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(58.0645)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(69.6774)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(81.2903)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(92.9013)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(104.516)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(116.129)" />
+    <line x1="0" y1="-14" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(127.7419)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(139.3548)" />
+    <line x1="0" y1="-14" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(150.9677)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(162.5806)" />
+    <line x1="0" y1="-14" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(174.1935)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(185.8065)" />
+    <line x1="0" y1="-14" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(197.4194)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(209.0323)" />
+    <line x1="0" y1="-14" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(220.6452)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(232.2580)" />
+    <line x1="0" y1="-14" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(243.8710)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(255.4839)" />
+    <line x1="0" y1="-14" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(267.0968)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(278.7097)" />
+    <line x1="0" y1="-14" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(290.3226)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(301.9355)" />
+    <line x1="0" y1="-14" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(313.5484)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(325.1613)" />
+    <line x1="0" y1="-14" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(336.7742)" />
+    <line x1="0" y1="-15" x2="0" y2="-17" stroke="black" stroke-width="1" transform="rotate(348.3871)" />
+    <text x="0" y="-19" font-size="4px" text-anchor="middle">31</text>
+    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(11.6129)">1</text>
+    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(23.2258)">2</text>
+    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(34.8387)">3</text>
+    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(46.4516)">4</text>
+    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(58.0645)">5</text>
+    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(69.6774)">6</text>
+    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(81.2903)">7</text>
+    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(92.9013)">8</text>
+    <text x="0" y="22" font-size="4px" text-anchor="middle" transform="rotate(-75.48387)">9</text>
+    <text x="0" y="22" font-size="4px" text-anchor="middle" transform="rotate(-63.8701)">10</text>
+    <text x="0" y="22" font-size="4px" text-anchor="middle" transform="rotate(-52.2581)">11</text>
+    <text x="0" y="22" font-size="4px" text-anchor="middle" transform="rotate(-29.0323)">13</text>
+    <text x="0" y="22" font-size="4px" text-anchor="middle" transform="rotate(-5.8064)">15</text>
+    <text x="0" y="22" font-size="4px" text-anchor="middle" transform="rotate(17.4194)">17</text>
+    <text x="0" y="22" font-size="4px" text-anchor="middle" transform="rotate(40.6452)">19</text>
+    <text x="0" y="22" font-size="4px" text-anchor="middle" transform="rotate(63.8710)">21</text>
+    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(-92.9013)">23</text>
+    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(-69.6774)">25</text>
+    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(-46.4516)">27</text>
+    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(-23.2258)">29</text>
+    <circle cx="0" cy="0" r="2" stroke="black" stroke-width="1" fill="black" />
+    <polyline points="-1, 0 0, -15 1, 0 -1, 0" stroke="black" fill="black" stroke-width="1" id="day" />
+  </g>
+</svg>
