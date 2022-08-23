@@ -1,74 +1,74 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="400" height="400" viewBox="-100 -100 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <circle r="77.5" stroke-dasharray="0.1 0.9" stroke-dashoffset="0.05" pathLength="60" stroke="black" stroke-width="5" fill="transparent"/>
-  <circle r="70" stroke-dasharray="0.06 0.94" stroke-dashoffset="0.03" pathLength="12" stroke="black" stroke-width="20" fill="transparent"/>
-  <text x="0" y="-85" font-size="smaller" text-anchor="middle">60</text>
-  <text x="0" y="-85" font-size="smaller" text-anchor="middle" transform="rotate(30)">5</text>
-  <text x="0" y="-85" font-size="smaller" text-anchor="middle" transform="rotate(60)">10</text>
-  <text x="0" y="-85" font-size="smaller" text-anchor="middle" transform="rotate(90)">15</text>
-  <text x="0" y="95" font-size="smaller" text-anchor="middle" transform="rotate(-60)">20</text>
-  <text x="0" y="95" font-size="smaller" text-anchor="middle" transform="rotate(-30)">25</text>
-  <text x="0" y="95" font-size="smaller" text-anchor="middle">30</text>
-  <text x="0" y="95" font-size="smaller" text-anchor="middle" transform="rotate(30)">35</text>
-  <text x="0" y="95" font-size="smaller" text-anchor="middle" transform="rotate(60)">40</text>
-  <text x="0" y="-85" font-size="smaller" text-anchor="middle" transform="rotate(270)">45</text>
-  <text x="0" y="-85" font-size="smaller" text-anchor="middle" transform="rotate(300)">50</text>
-  <text x="0" y="-85" font-size="smaller" text-anchor="middle" transform="rotate(330)">55</text>
-  <polyline points="-2, 0 0, -40 2, 0 -2, 0" stroke="black" fill="black" stroke-width="1" id="hour"/>
-  <polyline points="-2, 0 0, -70 2, 0 -2, 0" stroke="black" fill="black" stroke-width="1" id="minute"/>
+<svg width="400" height="400" viewBox="-1000 -1000 2000 2000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <circle r="775" stroke-dasharray="0.1 0.9" stroke-dashoffset="0.05" pathLength="60" stroke="black" stroke-width="50" fill="transparent" />
+  <circle r="700" stroke-dasharray="0.06 0.94" stroke-dashoffset="0.03" pathLength="12" stroke="black" stroke-width="200" fill="transparent" />
+  <text x="0" y="-850" font-size="120px" text-anchor="middle">60</text>
+  <text x="0" y="-850" font-size="120px" text-anchor="middle" transform="rotate(30)">5</text>
+  <text x="0" y="-850" font-size="120px" text-anchor="middle" transform="rotate(60)">10</text>
+  <text x="0" y="-850" font-size="120px" text-anchor="middle" transform="rotate(90)">15</text>
+  <text x="0" y="950" font-size="120px" text-anchor="middle" transform="rotate(-60)">20</text>
+  <text x="0" y="950" font-size="120px" text-anchor="middle" transform="rotate(-30)">25</text>
+  <text x="0" y="950" font-size="120px" text-anchor="middle">30</text>
+  <text x="0" y="950" font-size="120px" text-anchor="middle" transform="rotate(30)">35</text>
+  <text x="0" y="950" font-size="120px" text-anchor="middle" transform="rotate(60)">40</text>
+  <text x="0" y="-850" font-size="120px" text-anchor="middle" transform="rotate(270)">45</text>
+  <text x="0" y="-850" font-size="120px" text-anchor="middle" transform="rotate(300)">50</text>
+  <text x="0" y="-850" font-size="120px" text-anchor="middle" transform="rotate(330)">55</text>
+  <polyline points="-20, 0 0, -400 20, 0 -20, 0" stroke="black" fill="black" stroke-width="1" id="hour" />
+  <polyline points="-20, 0 0, -700 20, 0 -20, 0" stroke="black" fill="black" stroke-width="1" id="minute" />
   <g id="second">
-    <circle cx="0" cy="20" r="3" stroke="black" stroke-width="1" fill="transparent" />
-    <line x1="0" y1="17.5" x2="0" y2="-68" stroke="black" stroke-width="1" />
+    <circle cx="0" cy="200" r="30" stroke="black" stroke-width="10" fill="transparent" />
+    <line x1="0" y1="175" x2="0" y2="-680" stroke="black" stroke-width="10" />
   </g>
-  <circle cx="0" cy="0" r="3" stroke="black" stroke-width="1" fill="black" />
-  <g transform="translate(-35, 0)">
-    <circle r="14.5" stroke-dasharray="0.08 0.92" stroke-dashoffset="-0.21" pathLength="7" stroke="black" stroke-width="5" fill="transparent"/>
-    <text x="0" y="-18" font-size="4px" text-anchor="middle">SUN</text>
-    <text x="0" y="-18" font-size="4px" text-anchor="middle" transform="rotate(51.42857)">MON</text>
-    <text x="0" y="21" font-size="4px" text-anchor="middle" transform="rotate(-77.1429)">TUE</text>
-    <text x="0" y="21" font-size="4px" text-anchor="middle" transform="rotate(-28.7)">WED</text>
-    <text x="0" y="21" font-size="4px" text-anchor="middle" transform="rotate(25.714)">THU</text>
-    <text x="0" y="21" font-size="4px" text-anchor="middle" transform="rotate(77.1429)">FRI</text>
-    <text x="0" y="-18" font-size="4px" text-anchor="middle" transform="rotate(308.5714)">SAT</text>
-    <circle cx="0" cy="0" r="2" stroke="black" stroke-width="1" fill="black" />
-    <polyline points="-1, 0 0, -15 1, 0 -1, 0" stroke="black" fill="black" stroke-width="1" id="day_of_week"/>
+  <circle cx="0" cy="0" r="30" stroke="black" stroke-width="1" fill="black" />
+  <g transform="translate(-350, 0)">
+    <circle r="145" stroke-dasharray="0.08 0.92" stroke-dashoffset="-0.21" pathLength="7" stroke="black" stroke-width="50" fill="transparent" />
+    <text x="0" y="-180" font-size="40px" text-anchor="middle">SUN</text>
+    <text x="0" y="-180" font-size="40px" text-anchor="middle" transform="rotate(51.42857)">MON</text>
+    <text x="0" y="210" font-size="40px" text-anchor="middle" transform="rotate(-77.1429)">TUE</text>
+    <text x="0" y="210" font-size="40px" text-anchor="middle" transform="rotate(-28.7)">WED</text>
+    <text x="0" y="210" font-size="40px" text-anchor="middle" transform="rotate(25.714)">THU</text>
+    <text x="0" y="210" font-size="40px" text-anchor="middle" transform="rotate(77.1429)">FRI</text>
+    <text x="0" y="-180" font-size="40px" text-anchor="middle" transform="rotate(308.5714)">SAT</text>
+    <circle cx="0" cy="0" r="20" stroke="black" stroke-width="1" fill="black" />
+    <polyline points="-10, 0 0, -150 10, 0 -10, 0" stroke="black" fill="black" stroke-width="1" id="day_of_week" />
   </g>
-  <g transform="translate(0, 35)">
-    <circle r="16" stroke-dasharray="0.2 0.8" stroke-dashoffset="0.1" pathLength="24" stroke="black" stroke-width="2" fill="transparent"/>
-    <circle r="15.5" stroke-dasharray="0.1 0.9" stroke-dashoffset="0.05" pathLength="12" stroke="black" stroke-width="3" fill="transparent"/>
-    <circle r="14.5" stroke-dasharray="0.033333 0.966666" stroke-dashoffset="0.016666" pathLength="4" stroke="black" stroke-width="5" fill="transparent"/>
-    <text x="0" y="-19" font-size="4px" text-anchor="middle">24</text>
-    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(90)">6</text>
-    <text x="0" y="21" font-size="4px" text-anchor="middle">12</text>
-    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(270)">18</text>
-    <circle cx="0" cy="0" r="2" stroke="black" stroke-width="1" fill="black" />
-    <polyline points="-1, 0 0, -15 1, 0 -1, 0" stroke="black" fill="black" stroke-width="1" id="hour24" />
+  <g transform="translate(0, 350)">
+    <circle r="160" stroke-dasharray="0.2 0.8" stroke-dashoffset="0.1" pathLength="24" stroke="black" stroke-width="20" fill="transparent" />
+    <circle r="155" stroke-dasharray="0.1 0.9" stroke-dashoffset="0.05" pathLength="12" stroke="black" stroke-width="30" fill="transparent" />
+    <circle r="145" stroke-dasharray="0.033333 0.966666" stroke-dashoffset="0.016666" pathLength="4" stroke="black" stroke-width="50" fill="transparent" />
+    <text x="0" y="-190" font-size="40px" text-anchor="middle">24</text>
+    <text x="0" y="-190" font-size="40px" text-anchor="middle" transform="rotate(90)">6</text>
+    <text x="0" y="210" font-size="40px" text-anchor="middle">12</text>
+    <text x="0" y="-190" font-size="40px" text-anchor="middle" transform="rotate(270)">18</text>
+    <circle cx="0" cy="0" r="20" stroke="black" stroke-width="1" fill="black" />
+    <polyline points="-10, 0 0, -150 10, 0 -10, 0" stroke="black" fill="black" stroke-width="1" id="hour24" />
   </g>
-  <g transform="translate(35, 0)">
-    <circle r="16" stroke-dasharray="0.25 0.75" stroke-dashoffset="0.875" pathLength="31" stroke="black" stroke-width="2" fill="transparent"/>
-    <text x="0" y="-19" font-size="4px" text-anchor="middle">31</text>
-    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(11.6129)">1</text>
-    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(23.2258)">2</text>
-    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(34.8387)">3</text>
-    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(46.4516)">4</text>
-    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(58.0645)">5</text>
-    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(69.6774)">6</text>
-    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(81.2903)">7</text>
-    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(92.9013)">8</text>
-    <text x="0" y="22" font-size="4px" text-anchor="middle" transform="rotate(-75.48387)">9</text>
-    <text x="0" y="22" font-size="4px" text-anchor="middle" transform="rotate(-63.8701)">10</text>
-    <text x="0" y="22" font-size="4px" text-anchor="middle" transform="rotate(-52.2581)">11</text>
-    <text x="0" y="22" font-size="4px" text-anchor="middle" transform="rotate(-29.0323)">13</text>
-    <text x="0" y="22" font-size="4px" text-anchor="middle" transform="rotate(-5.8064)">15</text>
-    <text x="0" y="22" font-size="4px" text-anchor="middle" transform="rotate(17.4194)">17</text>
-    <text x="0" y="22" font-size="4px" text-anchor="middle" transform="rotate(40.6452)">19</text>
-    <text x="0" y="22" font-size="4px" text-anchor="middle" transform="rotate(63.8710)">21</text>
-    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(-92.9013)">23</text>
-    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(-69.6774)">25</text>
-    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(-46.4516)">27</text>
-    <text x="0" y="-19" font-size="4px" text-anchor="middle" transform="rotate(-23.2258)">29</text>
-    <circle cx="0" cy="0" r="2" stroke="black" stroke-width="1" fill="black" />
-    <polyline points="-1, 0 0, -15 1, 0 -1, 0" stroke="black" fill="black" stroke-width="1" id="day" />
+  <g transform="translate(350, 0)">
+    <circle r="160" stroke-dasharray="0.25 0.75" stroke-dashoffset="0.875" pathLength="31" stroke="black" stroke-width="20" fill="transparent" />
+    <text x="0" y="-190" font-size="40px" text-anchor="middle">31</text>
+    <text x="0" y="-190" font-size="40px" text-anchor="middle" transform="rotate(11.6129)">1</text>
+    <text x="0" y="-190" font-size="40px" text-anchor="middle" transform="rotate(23.2258)">2</text>
+    <text x="0" y="-190" font-size="40px" text-anchor="middle" transform="rotate(34.8387)">3</text>
+    <text x="0" y="-190" font-size="40px" text-anchor="middle" transform="rotate(46.4516)">4</text>
+    <text x="0" y="-190" font-size="40px" text-anchor="middle" transform="rotate(58.0645)">5</text>
+    <text x="0" y="-190" font-size="40px" text-anchor="middle" transform="rotate(69.6774)">6</text>
+    <text x="0" y="-190" font-size="40px" text-anchor="middle" transform="rotate(81.2903)">7</text>
+    <text x="0" y="-190" font-size="40px" text-anchor="middle" transform="rotate(92.9013)">8</text>
+    <text x="0" y="220" font-size="40px" text-anchor="middle" transform="rotate(-75.48387)">9</text>
+    <text x="0" y="220" font-size="40px" text-anchor="middle" transform="rotate(-63.8701)">10</text>
+    <text x="0" y="220" font-size="40px" text-anchor="middle" transform="rotate(-52.2581)">11</text>
+    <text x="0" y="220" font-size="40px" text-anchor="middle" transform="rotate(-29.0323)">13</text>
+    <text x="0" y="220" font-size="40px" text-anchor="middle" transform="rotate(-5.8064)">15</text>
+    <text x="0" y="220" font-size="40px" text-anchor="middle" transform="rotate(17.4194)">17</text>
+    <text x="0" y="220" font-size="40px" text-anchor="middle" transform="rotate(40.6452)">19</text>
+    <text x="0" y="220" font-size="40px" text-anchor="middle" transform="rotate(63.8710)">21</text>
+    <text x="0" y="-190" font-size="40px" text-anchor="middle" transform="rotate(-92.9013)">23</text>
+    <text x="0" y="-190" font-size="40px" text-anchor="middle" transform="rotate(-69.6774)">25</text>
+    <text x="0" y="-190" font-size="40px" text-anchor="middle" transform="rotate(-46.4516)">27</text>
+    <text x="0" y="-190" font-size="40px" text-anchor="middle" transform="rotate(-23.2258)">29</text>
+    <circle cx="0" cy="0" r="20" stroke="black" stroke-width="10" fill="black" />
+    <polyline points="-10, 0 0, -150 10, 0 -10, 0" stroke="black" fill="black" stroke-width="1" id="day" />
   </g>
 </svg>
