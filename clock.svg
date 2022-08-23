@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="400" height="400" viewBox="-1000 -1000 2000 2000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="400" height="400" viewBox="-1000 -1000 2000 2000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" onload="tick(evt)">
+  <script type="text/ecmascript">
+    function tick(evt) {
+      const clock_svg = evt.target.ownerDocument;
+      setInterval(function () {
+        const now = new Date();
+        const seconds = now.getSeconds();
+        const minutes = now.getMinutes() + seconds / 60;
+        const hours = now.getHours() + minutes / 60;
+        const day = now.getDate();
+        const day_of_week = now.getDay();
+
+        clock_svg
+          .getElementById("hour")
+          .setAttribute("transform", `rotate(${(hours / 12) * 360})`);
+        clock_svg
+          .getElementById("hour24")
+          .setAttribute("transform", `rotate(${(hours / 24) * 360})`);
+        clock_svg
+          .getElementById("minute")
+          .setAttribute("transform", `rotate(${(minutes / 60) * 360})`);
+        clock_svg
+          .getElementById("second")
+          .setAttribute("transform", `rotate(${(seconds / 60) * 360})`);
+        clock_svg
+          .getElementById("day_of_week")
+          .setAttribute("transform", `rotate(${(day_of_week / 7) * 360})`);
+        clock_svg
+          .getElementById("day")
+          .setAttribute("transform", `rotate(${(day / 31) * 360})`);
+      }, 1000);
+     }
+  </script>
   <circle r="775" stroke-dasharray="0.1 0.9" stroke-dashoffset="0.05" pathLength="60" stroke="black" stroke-width="50" fill="transparent" />
   <circle r="700" stroke-dasharray="0.06 0.94" stroke-dashoffset="0.03" pathLength="12" stroke="black" stroke-width="200" fill="transparent" />
   <text x="0" y="-850" font-size="120px" text-anchor="middle">60</text>
